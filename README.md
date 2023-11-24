@@ -1,6 +1,6 @@
-# digi-signage
+# digital-signage
 
-This template should help get you started developing with Vue 3 in Vite.
+This website functions to manage videos that will be displayed on digital signage (Raspberry Pi 3), where through this web we can upload videos, schedule when videos will be displayed, and cancel videos to be displayed. The data of video files, and video schedule information will be stored in Firebase. 
 
 ## Recommended IDE Setup
 
@@ -27,4 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-"# digital" 
